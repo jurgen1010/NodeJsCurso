@@ -1,0 +1,5 @@
+
+#No es mi trabajo versionar las librerias, aunque sean indispensable en la ejecucion de programa.
+node_modules/
+#Ignorar todos los archivos que se vayan generando
+/salida/*.txt
